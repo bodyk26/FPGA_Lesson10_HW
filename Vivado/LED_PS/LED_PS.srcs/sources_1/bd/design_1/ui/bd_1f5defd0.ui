@@ -1,0 +1,31 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.45509",
+   "Default View_TopLeft":"-299,-1077",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.8.0 2024-04-26 e1825d835c VDI=44 GEI=38 GUI=JA:24.0
+#  -string -flagsOSRD
+preplace port LED1 -pg 1 -lvl 2 -x 1040 -y -1000 -defaultsOSRD
+preplace port BTN -pg 1 -lvl 2 -x 1040 -y -160 -defaultsOSRD
+preplace port FIXED_IO_0 -pg 1 -lvl 2 -x 1040 -y -40 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 1 -x 730 -y -10 -defaultsOSRD
+preplace inst axi_gpio_0 -pg 1 -lvl 1 -x 730 -y -1000 -defaultsOSRD
+preplace inst axi_gpio_6 -pg 1 -lvl 1 -x 730 -y -160 -defaultsOSRD
+preplace inst proc_sys_reset_0 -pg 1 -lvl 1 -x 730 -y 180 -defaultsOSRD
+preplace inst axi_timer_0 -pg 1 -lvl 1 -x 730 -y 370 -defaultsOSRD
+preplace inst smartconnect_0 -pg 1 -lvl 1 -x 730 -y 590 -defaultsOSRD
+preplace netloc Net 1 0 2 520 740 970
+preplace netloc proc_sys_reset_0_peripheral_aresetn 1 0 2 510 750 950
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 0 2 540 80 920
+preplace netloc axi_gpio_0_GPIO 1 1 1 N -1000
+preplace netloc axi_gpio_6_GPIO 1 1 1 N -160
+preplace netloc processing_system7_0_FIXED_IO 1 1 1 N -40
+preplace netloc processing_system7_0_M_AXI_GP0 1 0 2 540 720 940
+preplace netloc smartconnect_0_M00_AXI 1 0 2 540 -250 930
+preplace netloc smartconnect_0_M06_AXI 1 0 2 540 -240 960
+preplace netloc smartconnect_0_M07_AXI 1 0 2 530 730 920
+levelinfo -pg 1 0 730 1040
+pagesize -pg 1 -db -bbox -sgen 0 -1080 1640 1000
+"
+}
+0

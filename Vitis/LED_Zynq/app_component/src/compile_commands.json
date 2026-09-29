@@ -1,0 +1,8 @@
+[
+{
+  "directory": "I:/Xilinx_Projects/Lesson_10/Vitis/LED_Zynq/app_component/build",
+  "command": "I:\\XILINX\\2026.1\\Vitis\\gnu\\aarch32\\nt\\gcc-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -II:/Xilinx_Projects/Lesson_10/Vitis/LED_Zynq/app_component/src -isystem I:/Xilinx_Projects/Lesson_10/Vitis/LED_Zynq/platform/export/platform/sw/standalone_ps7_cortexa9_0/include -isystem I:/XILINX/2026.1/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/13.4.0/include -isystem I:/XILINX/2026.1/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/13.4.0/include-fixed -isystem I:/XILINX/2026.1/Vitis/gnu/aarch32/nt/gcc-arm-none-eabi/aarch32-xilinx-eabi/usr/include  -DSDT -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -MMD -MP -specs=I:/Xilinx_Projects/Lesson_10/Vitis/LED_Zynq/platform/export/platform/sw/standalone_ps7_cortexa9_0/Xilinx.spec -II:/Xilinx_Projects/Lesson_10/Vitis/LED_Zynq/platform/export/platform/sw/standalone_ps7_cortexa9_0/include -Wall -Wextra      -O0  -g3     -U__clang__ -o CMakeFiles\\app_component.elf.dir\\I_\\Xilinx_Projects\\Lesson_10\\Vitis\\LED_Zynq\\app_component\\main_combined.c.obj -c I:\\Xilinx_Projects\\Lesson_10\\Vitis\\LED_Zynq\\app_component\\main_combined.c",
+  "file": "I:\\Xilinx_Projects\\Lesson_10\\Vitis\\LED_Zynq\\app_component\\main_combined.c",
+  "output": "CMakeFiles\\app_component.elf.dir\\I_\\Xilinx_Projects\\Lesson_10\\Vitis\\LED_Zynq\\app_component\\main_combined.c.obj"
+}
+]

@@ -1,0 +1,4 @@
+I:/Xilinx_Projects/Lesson_10/Vitis/LED_Zynq/platform/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+I:/Xilinx_Projects/Lesson_10/Vitis/LED_Zynq/platform/zynq_fsbl/build/CMakeFiles/print_build_info.dir
+I:/Xilinx_Projects/Lesson_10/Vitis/LED_Zynq/platform/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+I:/Xilinx_Projects/Lesson_10/Vitis/LED_Zynq/platform/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir
